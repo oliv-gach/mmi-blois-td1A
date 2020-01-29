@@ -1,4 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 body {
    background-color: rgb(30, 37, 43);
    color: white;
+   font-family: 'Bebas Neue', cursive;
+   text-align: center;
+}
+
+.search {
+   font-family: 'Roboto', sans-serif;
 }
