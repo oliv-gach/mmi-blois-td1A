@@ -9,6 +9,5 @@ var options = {
  };
  
  document.addEventListener('DOMContentLoaded', function() {
-   var list = new List('user-list-search', options);
+   var list = new List('user-list-search', options, user);
  })
- 
