@@ -23,6 +23,10 @@ async function registerAllusers() {
    await registerUser('julie');
    await registerUser('gach');
    await registerUser('julie');
+   await registerUser('romain');
+   await registerUser('damien');
+   await registerUser('bastien');
+   await registerUser('erwan');
    await registerUser('Davy');
 }
 
